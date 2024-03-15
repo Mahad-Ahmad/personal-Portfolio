@@ -97,7 +97,7 @@ export const Contact = () => {
                     fontFamily: "Arial, sans-serif",
                     fontSize: "16px",
                     lineHeight: "1.5",
-                    marginTop: "20px", // Adjust spacing as needed
+                    marginTop: "20px",
                   }}
                 >
                   <h2 style={{ marginBottom: "10px" }}>Get In Touch</h2>
